@@ -3,17 +3,6 @@
 <html lang="zh-cn"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>自建梯子教程 - siaimes</title>
-<link type="text/css" rel="stylesheet" href="./自建梯子教程_files/blog-common.css">
-<link id="MainCss" type="text/css" rel="stylesheet" href="./自建梯子教程_files/bundle-fighting.css">
-<link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="./自建梯子教程_files/bundle-fighting-mobile.css">
-<link title="RSS" type="application/rss+xml" rel="alternate" href="http://www.cnblogs.com/siaimes-sunzs/rss">
-<link title="RSD" type="application/rsd+xml" rel="EditURI" href="http://www.cnblogs.com/siaimes-sunzs/rsd.xml">
-<link type="application/wlwmanifest+xml" rel="wlwmanifest" href="http://www.cnblogs.com/siaimes-sunzs/wlwmanifest.xml">
-<script async="" src="./自建梯子教程_files/analytics.js.下载"></script><script type="text/javascript" src="./自建梯子教程_files/encoder.js.下载"></script><script src="./自建梯子教程_files/jquery.js.下载" type="text/javascript"></script>  
-<script type="text/javascript">var currentBlogApp = 'siaimes-sunzs', cb_enable_mathjax=false;var isLogined=true;</script>
-<script src="./自建梯子教程_files/blog-common.js.下载" type="text/javascript"></script>
-<style type="text/css"></style></head>
 <body>
 <a name="top"></a>
 
@@ -182,7 +171,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 	</div>
 	
 </div><!--end: topics 文章、评论容器-->
-</div><a name="!comments"></a><div id="blog-comments-placeholder"></div><script type="text/javascript">var commentManager = new blogCommentManager();commentManager.renderComments(0);</script>
+</div>
 
 </div><!--end: home 自定义的最大容器 -->
 
