@@ -176,11 +176,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 </div><!--end: home 自定义的最大容器 -->
 
 <div class="clear"></div>
-		
-<div id="footer">
-<!--done-->
-Copyright ©2017 siaimes
-</div><!--end: footer -->
+
 </center>
 
 
