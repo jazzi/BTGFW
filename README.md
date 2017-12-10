@@ -245,3 +245,9 @@ Linux客户端GUI版本：[SSRforLinuxGUI](https://github.com/erguotou520/electr
 MAC客户端：[SSRforMAC](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)；
 
 Android客户端：[SSRforAndroid](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)。
+
+# 本帖永久地址
+
+博客地址：[https://blog.siaimes.me](https://blog.siaimes.me/2017/11/09/p6/)
+
+博客地址：[https://siaimes.me](https://siaimes.me/2017/11/09/p6/)
