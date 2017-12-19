@@ -244,7 +244,10 @@ Linux客户端GUI版本：[SSRforLinuxGUI](https://github.com/erguotou520/electr
 
 MAC客户端：[SSRforMAC](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)；
 
+IOS客户端：[SSRforIOS](https://github.com/j-proxy/iossos)；
+
 Android客户端：[SSRforAndroid](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)。
+
 
 # 本帖永久地址
 
