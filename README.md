@@ -58,7 +58,10 @@ tags: [vps, vultr, ShadowsocksR, ssr, bash]
 启动Xshell，从菜单栏的文件->新建打开新建会话窗口如下图。会话名称随便取一个都可以，主机填写刚才记下来的服务器IP地址。点击确定立即尝试连接服务器，如果能连接上服务器会提示输入用户名和密码。用户名为root，密码可以从vultr服务器详情页拷贝过来。可以记住用户名和密码，这样下次连接就不用再输入那个复杂的密码了（当然密码是可以修改的，但是没必要。系统自动生成的密码强度相当高，可以避免暴力破解。自己设的密码就不好说了，而且还容易忘记）。
 ![新建会话](https://raw.githubusercontent.com/siaimes/BlogImages/master/自建梯子教程/新建会话.jpg)
 
-连接成功之后会出现命令提示符：`root@username:~#`。接下来就可以开始安装SSR了。如果Xshell一直连不上服务器，那么多半是被墙了，可以尝试着[ping](http://ping.chinaz.com/)一下服务器看看。如果ping不通的话就只能换掉服务器了（**血的教训**：先购买新服务器，再去vultr服务器页面Destroy。反过来的话间隔太小，估计又买到原来的ip了）。
+连接成功之后会出现命令提示符：`root@username:~#`
+![新建会话](https://raw.githubusercontent.com/siaimes/BlogImages/master/自建梯子教程/Xshell.jpg)
+
+接下来就可以开始安装SSR了。如果Xshell一直连不上服务器，那么多半是被墙了，可以尝试着[ping](http://ping.chinaz.com/)一下服务器看看。如果ping不通的话就只能换掉服务器了（**血的教训**：先购买新服务器，再去vultr服务器页面Destroy。反过来的话间隔太小，估计又买到原来的ip了）。
 
 ## 3.4 安装ShadowsocksR一键管理脚本
 
