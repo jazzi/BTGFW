@@ -51,7 +51,7 @@ tags: [vps, vultr, ShadowsocksR, ssr, bash]
 
 ## 3.2 远程工具安装
 
-这个第三方远程管理工具叫做Xshell，现在是第五版。自己随便找个连接下载就好了，各个软件管家里面都有的。而且Xshell学生和家庭版是免费的，可以随便使用而不需要破解。安装好Xshell之后即可开始连接服务器进行部署了。
+这个第三方远程管理工具叫做[Xshell](https://www.netsarang.com/products/xsh_overview.html)，现在是第五版。自己随便找个连接下载就好了，各个软件管家里面都有的。而且Xshell学生和家庭版是免费的，可以随便使用而不需要破解。安装好Xshell之后即可开始连接服务器进行部署了。
 
 ## 3.3 连接服务器
 
