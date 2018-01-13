@@ -255,5 +255,3 @@ Android客户端：[SSRforAndroid](https://github.com/shadowsocksr-backup/shadow
 # 本帖永久地址
 
 博客地址：[https://blog.siaimes.me](https://blog.siaimes.me/2017/11/09/p6/)
-
-博客地址：[https://siaimes.me](https://siaimes.me/2017/11/09/p6/)
