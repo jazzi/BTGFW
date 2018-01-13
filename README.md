@@ -252,6 +252,8 @@ IOS客户端：[SSRforIOS](https://github.com/j-proxy/iossos)；
 Android客户端：[SSRforAndroid](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)。
 
 
-# 本帖永久地址
+# 6. 本帖永久地址
 
-博客地址：[https://blog.siaimes.me](https://blog.siaimes.me/2017/11/09/p6/)
+博客：[https://blog.siaimes.me](https://blog.siaimes.me/2017/11/09/p6/)
+
+GitHub：[https://github.com](https://github.com/siaimes/BTGFW)
