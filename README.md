@@ -196,7 +196,7 @@ ShadowsocksR客户端下载地址[SSRforWindows](https://github.com/shadowsocksr
 初始的时候软件里会有一台免费的服务器，由于SSR作者已经没有维护了，是不能用的，需要将其删除掉，然后确定。如图所示：
 ![删除公用服务器](https://raw.githubusercontent.com/siaimes/BlogImages/master/自建梯子教程/删除公用服务器.jpg)
 
-此时已经可以访问google啦！由于服务器是美国的服务器，访问google的时候请使用google.com。其它后缀会慢很多。但是不要急着去玩，后面两步更加重要！！！
+此时已经可以访问google啦！由于服务器是美国的服务器，访问google的时候请使用google.com。其它后缀会慢很多。***但是不要急着去玩，后面两步更加重要！！！***
 
 ## 4.2 安装SwitchyOmega_Chromium插件
 
